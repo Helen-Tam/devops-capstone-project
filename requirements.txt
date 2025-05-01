@@ -31,3 +31,6 @@ httpie==3.2.1
 # add Talisman
 Flask-Talisman
 
+# Add Cors
+Flask-Cors
+
